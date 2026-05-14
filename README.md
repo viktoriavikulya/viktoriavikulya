@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**viktoriavikulya/viktoriavikulya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning software development and building projects step by step.
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- Web Development
+- Automation
+- Blockchain & Web3
+- Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I'm Learning
+- JavaScript
+- Python
+- Git & GitHub
+
+## 📌 Goals
+- Build useful projects
+- Contribute to open source
+- Improve coding skills every day
+
+Thanks for visiting my profile.
